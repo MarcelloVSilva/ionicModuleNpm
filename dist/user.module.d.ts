@@ -1,4 +1,4 @@
 import { ModuleWithProviders } from '@angular/core';
-export declare class IonicOlaModule {
+export declare class UserModule {
     static forRoot(): ModuleWithProviders;
 }

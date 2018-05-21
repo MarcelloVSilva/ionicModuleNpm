@@ -1,3 +1,2 @@
-export * from './ola.module';
-export * from './components/ola_component';
-export * from './providers/ola_provider';
+export * from './user.module';
+export * from './providers/user';
